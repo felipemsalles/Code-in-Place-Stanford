@@ -7,6 +7,7 @@ Your first task is to help Karel paint the exterior of some oddly-shaped buildin
 For this problem, Karel starts facing west next to a “building” (represented by a rectangle,
 constructed from walls) whose sides span one or more corners. Karel’s goal is to paint all of the
 buildings present in the world by placing beepers along three of the sides of each of the buildings.
+
 ![Karel1](karel1.jpg)
 
 **Problem 2 (StoneMasonKarel.py)**
